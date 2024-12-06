@@ -1,47 +1,72 @@
-# Ecommerce-Analysis-in-Power-BI
+# Ecommerce Analysis in Power BI
 
-Overview:
+## Overview 📊
+Conducted a comprehensive analysis for **Whiskique**, an online pet supply company, leveraging **Power BI** to explore customer behavior, sales performance, and shipping metrics. The project focused on revealing actionable insights, optimizing operations, and improving profitability.
 
-Leveraged Power BI to conduct a comprehensive analysis for Whiskique, an online pet supply company, focusing on customer behavior, sales performance, and shipping metrics. Imported and structured data from multiple sources to ensure accurate relationships between customers, products, and sales data. Corrected inconsistent state names, revealing California as the state with the most customers (598) and Texas leading in the Central region.
+Key insights:
+- **Top-performing state:** California had the most customers (**598**).
+- **Central region leader:** Texas led in customer count.
+- Resolved inconsistent state names for cleaner analytics.
 
-Customer Behavior and Sales Analysis:
+---
 
-Customer Lifetime Value (LTV): Calculated LTV to analyze customer behavior, with Nevada averaging $972.97.
-Sales Visualization:
-Identified Florida (FL) as having the highest sales on the East Coast.
-Highlighted Memory Foam Pet Beds as the second-best seller with sales of $127,642.
-Profit Metrics:
-Built key profit metrics—including Cost of Goods Sold (COGS), baseline profit, and profit percentages.
-Discovered an overall profit margin of 27.50%.
-Noted that NextGard Chew for Dogs in Washington (WA) had a negative profit margin of -19.76%.
-Identified Electronics as the category with the highest profit margin.
+## Customer Behavior and Sales Analysis 🔍
+1. **Customer Lifetime Value (LTV):**
+   - Calculated LTV to evaluate customer behavior.
+   - Nevada had the highest average LTV of **$972.97**.
+2. **Sales Analysis:**
+   - Florida (FL) recorded the highest sales on the East Coast.
+   - Identified **Memory Foam Pet Beds** as the second-best seller with sales of **$127,642**.
+3. **Profitability Metrics:**
+   - Overall profit margin: **27.50%**.
+   - Identified **NextGard Chew for Dogs** in Washington (WA) with a negative profit margin of **-19.76%**.
+   - Highlighted **Electronics** as the category with the highest profit margins.
 
-Shipping Optimization
+---
 
-What-If Analysis:
-Introduced dynamic shipping metrics to optimize costs.
-Reduced baseline shipping costs from $385,150 to $326,055.
-Achieved total savings of $118.19K for an 11-item shipment.
-Product-Specific Savings:
-Analyzed savings of $10,904 for Dog and Puppy Pads through optimized quantities.
+## Shipping Optimization 🚚
+1. **What-If Analysis for Cost Reduction:**
+   - Reduced baseline shipping costs from **$385,150** to **$326,055**, achieving total savings of **$118.19K**.
+   - Optimized shipping for an 11-item shipment to achieve these savings.
+2. **Product-Specific Savings:**
+   - Analyzed and saved **$10,904** for **Dog and Puppy Pads** through quantity optimization.
 
-Market Basket Analysis
-Cross-Sell Opportunities:
-Conducted market basket analysis to identify product pairings.
-Recommended Memory Foam Pet Beds for cross-sell promotions based on profitability and purchasing patterns.
+---
 
-Interactive Dashboards
+## Market Basket Analysis 🛒
+1. **Cross-Sell Opportunities:**
+   - Conducted market basket analysis to identify frequently purchased product pairings.
+   - Recommended **Memory Foam Pet Beds** for cross-sell promotions based on profitability and purchasing patterns.
 
-Executive Summary:
-Included map visualizations of total sales by state and region.
-Treemaps showcasing profit margins by product description and category.
-Displayed key KPIs like total sales, baseline profit, and profit percentage.
-Shipping Metrics:
-Explored the impact of quantity adjustments on shipping costs.
-Visualized cumulative shipping savings over time.
-Market Basket Analysis:
-Visualized frequently purchased product combinations to inform cross-sell strategies.
+---
 
-Outcome:
+## Interactive Dashboards 📈
+1. **Executive Summary:**
+   - Map visualizations showcasing total sales by state and region.
+   - Treemaps highlighting profit margins by product description and category.
+   - Displayed KPIs such as total sales, baseline profit, and profit percentage.
+2. **Shipping Metrics:**
+   - Visualized shipping savings and their cumulative impact over time.
+   - Explored the effect of quantity adjustments on shipping costs.
+3. **Market Basket Analysis:**
+   - Highlighted frequently purchased product combinations to guide promotional strategies.
 
-Enhanced decision-making by delivering data-driven insights into sales trends, customer behavior, and shipping strategies. Optimized operations by identifying significant cost-saving opportunities through dynamic what-if analysis. Improved profitability by revealing high-margin products and categories, guiding strategic promotions and operational improvements.
+---
+
+## Outcome 🎯
+- Delivered **data-driven insights** into sales trends, customer behavior, and shipping strategies.
+- Identified significant cost-saving opportunities with **dynamic what-if analyses**.
+- Boosted profitability by uncovering high-margin products and guiding operational improvements.
+
+---
+
+## Key Technologies 🛠️
+- **Tools Used:** Power BI
+- **Techniques:** 
+  - Data cleaning and transformation
+  - LTV analysis
+  - Profitability and cost analysis
+  - Market basket analysis
+- **Visualizations:** Interactive dashboards, KPIs, treemaps, and map charts.
+
+---
